@@ -1,2 +1,2 @@
 # m00n.cf
-wewewe
+moon site yes
