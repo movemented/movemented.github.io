@@ -13,7 +13,7 @@ body {
 }
 
 #overlay-toggle {
-    position: absolute;
+    position: fixed;
     display: none
 }
 
