@@ -65,7 +65,7 @@ a:hover {
 }
 
 .ascii {
-    color: #fcfcfc!important;
+    color: #00FF00!important;
     top: 50%
 }
 
@@ -73,6 +73,10 @@ span::before {
     content: '\A';
     white-space: pre
 }
+
+p{
+    text-shadow : horizontal-shadow vertical-shadow blur color, horizontal-shadow vertical-shadow blur color;
+ }
 
 #center {
     position: fixed;
